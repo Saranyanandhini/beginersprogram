@@ -1,0 +1,17 @@
+#include<stdio.h>
+
+int main()
+
+{
+    
+   int n;
+  
+   float a,b;
+    
+   scanf("%d %f",&n,&a);
+    
+   b=n+a;
+    
+   printf("%f",b);
+
+}
